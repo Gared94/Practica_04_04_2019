@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Practica_04_04_19\Practica_04_04_19\bin\Debug\Practica_04_04_19.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Practica_04_04_19\Practica_04_04_19\bin\Debug\Practica_04_04_19.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Practica_04_04_19\Practica_04_04_19\bin\Debug\Practica_04_04_19.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Practica_04_04_19\Practica_04_04_19\obj\Debug\Practica_04_04_19.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Practica_04_04_19\Practica_04_04_19\obj\Debug\Practica_04_04_19.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Practica_04_04_19\Practica_04_04_19\obj\Debug\Practica_04_04_19.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Practica_04_04_19\Practica_04_04_19\obj\Debug\Practica_04_04_19.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Practica_04_04_19\Practica_04_04_19\obj\Debug\Practica_04_04_19.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Practica_04_04_19\Practica_04_04_19\obj\Debug\Practica_04_04_19.pdb
